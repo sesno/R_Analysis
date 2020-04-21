@@ -1,0 +1,72 @@
+---
+title: Growth and Skeletal Sensitivity of the Common Collector Urchin,  *Tripneustes *gratilla, to Projected Climate Change. 
+author: "Emily Sesno"
+date: "5/7/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Abstract
+
+
+```{r Abstract}
+
+```
+
+# Introduction
+
+```{r Introduction}
+
+
+
+```
+
+# Methods
+
+```{r Methods}
+
+```
+
+### SEM
+
+```{r SEM}
+
+```
+
+
+# Results
+
+```{r Results}
+
+```
+
+# Discussion
+
+```{r Discussion}
+
+```
+
+# Conclsion
+
+```{r Conclusion}
+
+```
+
+
+
+
+
+
+
+
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
